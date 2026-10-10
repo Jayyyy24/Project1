@@ -1,0 +1,16 @@
+export const SITE_CONFIG = {
+  name: "JASHU MOMOS",
+  tagline: "Little Momos, Big Happiness! 🥟",
+  heroTitle: "Little Momos, Big Happiness!",
+  heroSubtitle: "Hot, tasty and 100% vegetarian. Your favourite veg momo cravings start here!",
+  vegBadge: "🌿 100% VEG MOMOS ONLY",
+  ourStoryTitle: "Two Friends, One Momo Dream!",
+  ourStoryText: "Good friends, delicious 100% veg momos, and a little dream we're bringing to life.",
+  ourStorySubtext: "Made with friendship, served with happiness!",
+  location: "123 Momo Street, Foodie Town",
+  openingHours: "11:00 AM – 10:00 PM (Everyday)",
+  contactPhone: "+91 98765 43210",
+  whatsappNumber: "919876543210",
+  instagramHandle: "@jashumomos",
+  copyrightYear: 2026,
+};

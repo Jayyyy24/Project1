@@ -1,0 +1,18 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&family=Quicksand:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Fredoka', 'Quicksand', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: #f0fbf4;
+  color: #14532d;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: #f0fbf4; }
+::-webkit-scrollbar-thumb { background: #fecdd3; border-radius: 10px; border: 2px solid #f0fbf4; }
+::-webkit-scrollbar-thumb:hover { background: #fb7185; }
